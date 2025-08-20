@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👨‍💻 [Amrit Aryal] - Security Operations Center (SOC) Analyst
+# 👨‍💻 Amrit Aryal - Security Operations Center (SOC) Analyst
 
 
 
