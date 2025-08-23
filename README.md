@@ -38,9 +38,14 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 ## Projects
 
 | Skill                                         | Associated Project                                                                                                                   |
-|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| Cybersecurity Detection Game                   | [KC7 Detection Game](https://github.com/november14th/KC7) - The free cyber detective game helping analysts practice threat hunting using realistic data and Azure Data Explorer.     |
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|   
 | URL and File Security Analysis Scanner        | [Security Scanner](https://github.com/november14th/Security-Scanner) - Integrates urlscan.io for URL analysis and VirusTotal for file and URL threat detection. |
+
+## Labs
+
+- [KC7 Detection Game](https://github.com/november14th/KC7)  
+  Practicing threat hunting skills with this free cyber detective game using realistic data and Azure Data Explorer. Sharing my learning journey on GitHub.
+
 
 
 
