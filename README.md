@@ -85,18 +85,6 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 </div>
 
 
-## Projects
-- Detection Lab
-- SOC Automation Project
-
-
-
-
-
-
-
-
-
 
 
 > _“Cybersecurity is a journey, not a destination.”_
