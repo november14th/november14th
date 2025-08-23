@@ -24,6 +24,17 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 My journey in computer engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+## Certifications
+
+<div>
+  <a href="https://www.credly.com/badges/0bbeda89-1e4b-4c56-a3f7-4a3d2942d9ea/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-ISC2%20CC-007ACC?style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 CC Badge"/>
+  </a>
+  <a href="https://app.kajabi.com/certificates/56800d97" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-C3SA-CB3837?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cyber Security Analyst C3SA Badge"/>
+  </a>
+</div>
+
 ## Projects
 
 | Skill                                         | Associated Project                                                                                                                   |
@@ -73,20 +84,11 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 
 
 
-## Certifications
-
-<div>
-  <a href="https://www.credly.com/badges/0bbeda89-1e4b-4c56-a3f7-4a3d2942d9ea/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-ISC2%20CC-007ACC?style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 CC Badge"/>
-  </a>
-  <a href="https://app.kajabi.com/certificates/56800d97" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-C3SA-CB3837?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cyber Security Analyst C3SA Badge"/>
-  </a>
-</div>
 
 
 
 
+---
 > _“Cybersecurity is a journey, not a destination.”_
 
 ---
