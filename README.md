@@ -43,7 +43,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 
 ## Labs
 
-- [KC7 Detection Game](https://github.com/november14th/KC7)  
+- [KC7 Detection Game](https://github.com/november14th/KC7---The-free-cyberdetective-game.git)  
   Practicing threat hunting skills with this free cyber detective game using realistic data and Azure Data Explorer. Sharing my learning journey on GitHub.
 
 
