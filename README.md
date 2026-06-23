@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###🌱 I’m currently preparing for HTB CDSA
+### 🌱 I’m currently preparing for HTB CDSA
 
 # Hello, I'm AMRIT ARYAL
 <a href="https://www.linkedin.com/in/amrit-aryal-14b8b9183/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
