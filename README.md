@@ -41,7 +41,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 | Skill                                         | Associated Project                                                                                                                   |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|   
 | URL and File Security Analysis Scanner        | [Security Scanner](https://github.com/layraz/Security-Scanner) - Integrates urlscan.io for URL analysis and VirusTotal for file and URL threat detection. |
-| Understanding Threat Reports        | [Understanding Threat Reports]([https://github.com/layraz/](https://github.com/layraz/Understanding-Threat-Reports)) - Integrates urlscan.io for URL analysis and VirusTotal for file and URL threat detection. |
+| Understanding Threat Reports        | [Understanding Threat Reports](https://github.com/layraz/Understanding-Threat-Reports) - Threat reports are only useful when they’re understood. |
 
 ## Labs
 
