@@ -23,7 +23,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My journey in computer engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Computer Engineering professional with 1.5 years of experience as an Associate L1 SOC Analyst. Focused on high-volume alert monitoring, log analysis, and rapid incident escalation in a fast-paced SOC environment. Available immediately for new opportunities.
 
 ## Certifications
 
